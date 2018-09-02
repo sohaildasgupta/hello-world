@@ -1,3 +1,4 @@
 # hello-world
-Getting started
+Getting started.
+
 Hi, me here. I don't do much.
